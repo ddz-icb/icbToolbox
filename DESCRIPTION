@@ -1,6 +1,6 @@
 Package: icbToolbox
 Type: Package
-Title: Toolbox that gives ICB members easy access to data analysis and visualization with R.
+Title: Toolbox that gives easy access to basic data analysis and visualization with R.
 Version: 0.0.1.0
 Depends: gplots
 RoxygenNote: 7.2.1
