@@ -10,7 +10,7 @@ Note: `plotHeatClust("path/to/your/data-file.txt")` has the same effect.
 
 ## Input data
 Your data must be formatted in a way that plotHeatClust can interpret it. Please make sure that the input file and the specified path to it meet the following requirements:
-- The input file is a tab-separated txt-file.
+- The input file is a tab-separated txt-file in which the data is arranged in a spreadsheet-like manner.
 - Rows represent quantified proteins, genes, etc.
 - Columns represent different samples.
 - The first row provides column names.
