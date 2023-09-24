@@ -15,9 +15,9 @@ Plot with the desired heat map with hierarchical clustering exported
 to a pdf file in "input.path".
 }
 \description{
-Plots a PCA for the data given via "input.path" and writes it to a pdf file
-in the same location.
+Plots a PCA for the data given via the argument "input.path" and writes it to
+a pdf file in the same location.
 }
 \examples{
-plotPCA("bla");
+plotPCA("path/to/your/data-file.txt");
 }
