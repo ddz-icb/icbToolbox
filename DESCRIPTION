@@ -2,5 +2,9 @@ Package: icbToolbox
 Type: Package
 Title: Toolbox that gives easy access to basic data analysis and visualization with R.
 Version: 0.0.1.0
+Date: 2023-09-24
+Author: Michael Turewicz
+Maintainer: Michael Turewicz <michael.turewicz@ddz.de>
+License: BSD 3-Clause
 Depends: gplots
 RoxygenNote: 7.2.1
