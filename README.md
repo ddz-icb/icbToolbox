@@ -5,6 +5,7 @@ Toolbox that gives easy access to basic data analysis and visualization with R.
 First make sure to install R and RStudio. Then, to install the icbToolbox please open RStudio and execute the following lines of code in its console:
 
 library(devtools)
+
 install_github("ddz-icb/icbToolbox")
 
 # Usage
