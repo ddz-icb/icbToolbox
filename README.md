@@ -15,5 +15,5 @@ library(icbToolbox)
 - Then you will be able to use its functions (= "tools") as described in the tool-specific descriptions.
 
 # Tools
-- plotHeatClust (here)
+- plotHeatClust [here](man/plotHeatClust.md)
 - plotPCA (under development)
