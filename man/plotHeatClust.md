@@ -21,9 +21,10 @@ Your data must be formatted in a way that plotHeatClust can interpret it. Please
 - A constructed example to illustrate the basic principle of formatting your data correctly:
   |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
   |---|---|---|---|---|---|---|---|---|
-  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
-  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
-  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
+  |Q9UJ68|100832.0193|56606.85451|56228.84989|(...)|51280.72095|109974.8873|109827.6151|(...)|
+  |P84103|80058.02278|1182460.475|63352.35847|(...)|93033.20982|40069.04917|67999.75178|(...)|
+  |(...)|(...)|(...)|(...)|(...)|(...)|(...)|(...)|(...)|
+  |P16219|1331780.428|66780.58805|1133041.174|(...)|459913.9889|1855951.858|1571948.068|(...)|
 
 ## Further documentation
 Please execute "help(plotHeatClust)" in the console of RStudio for further documentation.
