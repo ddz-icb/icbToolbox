@@ -6,7 +6,7 @@ Execute the following code in the console of RStudio:
 ```
 plotHeatClust(input.path = "path/to/your/data-file.txt")
 ```
-Note: plotHeatClust("path/to/your/data-file.txt") has the same effect.
+Note: `plotHeatClust("path/to/your/data-file.txt")` has the same effect.
 
 ## Input data
 Your data must be formatted in a way that plotHeatClust can interpret it. Please make sure that the input file and the specified path to it meet the following requirements:
@@ -27,4 +27,4 @@ Your data must be formatted in a way that plotHeatClust can interpret it. Please
   |P16219|1331780.428|66780.58805|1133041.174|(...)|459913.9889|1855951.858|1571948.068|(...)|
 
 ## Further documentation
-Please execute "help(plotHeatClust)" in the console of RStudio for further documentation.
+Please execute `help(plotHeatClust)` in the console of RStudio for further documentation.
