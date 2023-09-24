@@ -18,6 +18,12 @@ Your data must be formatted in a way that plotHeatClust can interpret it. Please
 - The names of the other columns provide sample names. Moreover, samples should be named according to the following pattern: "SampleGroup_NumberWithinGroup". E.g., if there are two clinical group, "Type 2 diabetes" and "Controls", the respective sample names could be: T2D_1, T2D_2, T2D_3, ...., C_1, C_2, C_3, ....
 - In all columns, except the first, there are numbers representing the abundances of the quantified protein, genes, etc.
 - The file "hcc.txt" in the subfolder ["data"](../data) of icbToolbox, which provides example data, is formatted correctly, so you can use it as a guide to format your own data.
+- A constructed example to illustrate the basic principle of formatting your data correctly:
+  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
+  |---|---|---|---|---|---|---|---|---|
+  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
+  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
+  |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
 
 ## Further documentation
 Please execute "help(plotHeatClust)" in the console of RStudio for further documentation.
