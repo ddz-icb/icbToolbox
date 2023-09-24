@@ -19,3 +19,5 @@ library(icbToolbox)
 # Tools
 - [plotHeatClust](man/plotHeatClust.md)
 - plotPCA (under development)
+- plotVenn (planned)
+- (...)
