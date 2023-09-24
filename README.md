@@ -2,7 +2,7 @@
 Toolbox that gives easy access to basic data analysis and visualization with R.
 
 # Installation
-First make sure to install R and RStudio. Then, to install the icbToolbox please open RStudio and execute the following lines of code in its console:
+First make sure to [install R](https://cloud.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/). Then, to install the icbToolbox please open RStudio and execute the following lines of code in its console:
 
 library(devtools)
 
@@ -15,5 +15,5 @@ library(icbToolbox)
 - Then you will be able to use its functions (= "tools") as described in the tool-specific descriptions.
 
 # Tools
-- plotHeatClust [here](man/plotHeatClust.md)
+- [plotHeatClust](man/plotHeatClust.md)
 - plotPCA (under development)
