@@ -1,2 +1,2 @@
 # icbToolbox
-Toolbox that gives ICB members easy access to data analysis and visualization with R.
+Toolbox that gives easy access to basic data analysis and visualization with R.
