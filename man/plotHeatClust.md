@@ -18,7 +18,7 @@ Your data must be formatted in a way that plotHeatClust can interpret it. Please
 - The names of the other columns provide sample names. Moreover, samples should be named according to the following pattern: "SampleGroup_NumberWithinGroup". E.g., if there are two clinical group, "Type 2 diabetes" and "Controls", the respective sample names could be: T2D_1, T2D_2, T2D_3, ...., C_1, C_2, C_3, ....
 - In all columns, except the first, there are numbers representing the abundances of the quantified protein, genes, etc.
 - The file "hcc.txt" in the subfolder ["data"](../data) of icbToolbox, which provides example data, is formatted correctly, so you can use it as a guide to format your own data.
-- A constructed example to illustrate the basic principle of formatting your data correctly:
+- A constructed example to illustrate the basic principle of formatting your data correctly (here, protein abundances are shown and IDs are UniProt-IDs):
   |ID|T2D_1|T2D_2|T2D_3|(...)|C_1|C_2|C_3|(...)|
   |---|---|---|---|---|---|---|---|---|
   |Q9UJ68|100832.0193|56606.85451|56228.84989|(...)|51280.72095|109974.8873|109827.6151|(...)|
