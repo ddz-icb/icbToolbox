@@ -2,7 +2,7 @@
 % Please edit documentation in R/plotPCA.r
 \name{plotPCA}
 \alias{plotPCA}
-\title{Heat map with hierarchical clustering}
+\title{PCA plot}
 \usage{
 plotPCA(input.path = NULL)
 }
@@ -11,8 +11,7 @@ plotPCA(input.path = NULL)
 Linux style, i.e. "/" instead of "\").}
 }
 \value{
-Plot with the desired heat map with hierarchical clustering exported
-to a pdf file in "input.path".
+Plot with the desired PCA plot exported to a pdf file.
 }
 \description{
 Plots a PCA for the data given via the argument "input.path" and writes it to
